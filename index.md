@@ -50,7 +50,7 @@ For your second milestone, explain what you've worked on since your previous mil
 For my 1st Mile stone I acomplished:
   -Finsishing the robot building
   -Wiring the motors
-  -Robot moving in a straight Line(Default with no Code)
+  -Robot moving in a straight Line(Default with no code)
 
 # Schematics 
 ![Headstone Image](Scema.png)
