@@ -78,9 +78,9 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| TT Motor| Used to Move the robot| $2.95| <a href="https://www.adafruit.com/product/3777?gad_source=4&gad_campaignid=23986111167&gbraid=0AAAAADx9JvT4k6MoCV2B83Trz3U8EYZGQ&gclid=CjwKCAjwvNfSBhBiEiwAyaGMCSl_H-HDBxv6HDnP7aIOmZEnet5tMknBZBpHABU2blPnMRZw8CVvnRoCBcoQAvD_BwE"> Link </a> |
+| Arduino  | Used the central hub where everthing plugs into| $59 | <a href="https://store-usa.arduino.cc/products/uno-q?utm_source=google&utm_medium=cpc&utm_campaign=US-UnoQ-Pmax&gad_source=1&gad_campaignid=23520659517&gbraid=0AAAAACbEa84z8Do-rnXVb8l9wLlVGwN98&gclid=CjwKCAjwvNfSBhBiEiwAyaGMCZLjVVoCI1ljG9uYIM4YEbrWuJz3TTL7_yHj3rsWppnJKXVQaxCePxoCJ1gQAvD_BwE"> Link </a> |
+| Bread Board | Used as an extention for more ports | $2.95 | <a href="https://ezsbc.shop/products/small-breadboard?variant=44055834067099&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=google_ads&utm_medium=cpc&utm_campaign=Shopping-CatchAll-US&adgroupid=177086488447&utm_term=&device=c&gad_source=1&gad_campaignid=21645735010&gbraid=0AAAAACSHmfwmUsLFqyBX9koiZ4AMmQCgA&gclid=CjwKCAjwvNfSBhBiEiwAyaGMCVZNsqYJIX5y4fgS8evHnH9cqMwQruy2-yozdIUys0ikaTVyTrYvOBoCD70QAvD_BwE"> Link </a> |
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
