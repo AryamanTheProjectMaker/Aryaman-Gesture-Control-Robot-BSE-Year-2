@@ -67,9 +67,6 @@ For your second milestone, explain what you've worked on since your previous mil
 | Bread Board | Used as an extention for more ports | $2.95 | <a href="https://ezsbc.shop/products/small-breadboard?variant=44055834067099&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=google_ads&utm_medium=cpc&utm_campaign=Shopping-CatchAll-US&adgroupid=177086488447&utm_term=&device=c&gad_source=1&gad_campaignid=21645735010&gbraid=0AAAAACSHmfwmUsLFqyBX9koiZ4AMmQCgA&gclid=CjwKCAjwvNfSBhBiEiwAyaGMCVZNsqYJIX5y4fgS8evHnH9cqMwQruy2-yozdIUys0ikaTVyTrYvOBoCD70QAvD_BwE"> Link </a> |
 
 # Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
+- [Example 1]([https://trashytuber.github.io/YimingJiaBlueStamp/](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_assemble.html))
 
 To watch the BSE tutorial on how to create a portfolio, click here.
