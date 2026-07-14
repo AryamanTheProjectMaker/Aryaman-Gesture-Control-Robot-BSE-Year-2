@@ -54,7 +54,7 @@ For your first milestone, describe what your project is and how you plan to buil
 - What your plan is to complete your project
 
 # Schematics 
-![Headstone Image](logo.svg)
+![Headstone Image](scema.png)
 
 
 
