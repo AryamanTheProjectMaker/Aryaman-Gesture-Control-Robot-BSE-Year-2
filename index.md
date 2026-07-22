@@ -23,7 +23,13 @@ In My final Mile Stone I accomplished:
 - Getting my robot to be able to follow a black line
 - Get portable line paths using cardboard peices and black tape/paint
 **Challenges:**
-  -
+- At first when making the line paths it was taped on to a table in my room. This meant it was not very portable.
+- Solution:To solve this I made my own board out of carboard where I stuck on paper with a path. I made multiple so I can switch based on what I want.
+- Another issue I faced was that it was not following the path and would sometimes start spinning
+- solution:I relised this was becuase the robot's line following does not do well with angled turns less that 90 degree. To solve this I remade my paths to make sure all the turns are obtuse angle.
+
+
+  
 
 ## Final Milestone code:
 ```c++
