@@ -44,6 +44,81 @@ For my 2nd Mile Stone I accomplished:
 - I found the cause of it not going in a straight line was that one motor was slightly slower than the other. To try to fix this I tried replacing one of the     motors with another one. After about 3 more motors it was still not going in a stright line. So I moved to another solution
 - I tried switching my pins to analog rather than digital. This is becuase while digital is either 1 or 0, analgo lets you set the speed of each motor from 1-255. After trying multiple values it still did not work
     In the end I was not able to find somthing that fully fixed this issue, so I plan to look more into this after Blue Stamp is over
+
+
+## 2nd Milestone code:
+```c++
+const int A_1B = 5;
+const int A_1A = 6;
+const int B_1B = 9;
+const int B_1A = 10;
+
+void setup() {
+  pinMode(A_1B, OUTPUT);
+  pinMode(A_1A, OUTPUT);
+  pinMode(B_1B, OUTPUT);
+  pinMode(B_1A, OUTPUT);
+}
+
+void loop() {
+  moveForward();
+  delay(2000);
+  stopMove();
+  delay(500);
+
+  moveBackward();
+  delay(2000);
+  stopMove();
+  delay(500);
+
+  turnLeft();
+  delay(2000);
+  stopMove();
+  delay(500);
+
+  turnRight();
+  delay(2000);
+  stopMove();
+  delay(500);
+}
+
+void moveForward() {
+  digitalWrite(A_1B, LOW);
+  digitalWrite(A_1A, HIGH);
+  digitalWrite(B_1B, HIGH);
+  digitalWrite(B_1A, LOW);
+}
+
+void moveBackward() {
+  digitalWrite(A_1B, HIGH);
+  digitalWrite(A_1A, LOW);
+  digitalWrite(B_1B, LOW);
+  digitalWrite(B_1A, HIGH);
+}
+
+void turnRight() {
+  digitalWrite(A_1B, HIGH);
+  digitalWrite(A_1A, LOW);
+  digitalWrite(B_1B, HIGH);
+  digitalWrite(B_1A, LOW);
+}
+
+void turnLeft() {
+  digitalWrite(A_1B, LOW);
+  digitalWrite(A_1A, HIGH);
+  digitalWrite(B_1B, LOW);
+  digitalWrite(B_1A, HIGH);
+}
+
+void stopMove() {
+  digitalWrite(A_1B, LOW);
+  digitalWrite(A_1A, LOW);
+  digitalWrite(B_1B, LOW);
+  digitalWrite(B_1A, LOW);
+}
+
+```
+
 # First Milestone
 
 **Mile Stone Video**
