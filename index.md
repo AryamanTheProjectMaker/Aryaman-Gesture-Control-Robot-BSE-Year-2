@@ -1,3 +1,4 @@
+theme: jekyll-theme-cayman
 # Self Moving Car
 In this project the car can move around with precoded instruction. It also uses sensors to prevent running into something.
 
