@@ -32,6 +32,15 @@ For my 2nd Mile Stone I accomplished:
 -The robot being able to turn in a 90 degree angle
 -Being able to move in all direction,forward, bakcwards,left and right
 -Being able to do a combined precided path, like forward, then turn left, then backwards, etc
+
+**Challenges**
+-Getting my Robot to be able to turn in a proper 90 degree angle
+Solution: In the code there was a delay funtion dictation how long the car was rotating. So I tested different time values until it was close enough to a 90 degree angle
+-Moving in a straight line, and not go diagonel
+Solution:To counter this I tried a few things:
+-I found the cause of it not going in a straight line was that one motor was slightly slower than the other. To try to fix this I tried replacing one of the motors with another one. After about 3 more motors it was still not going in a stright line. So I moved to another solution
+-I tried switching my pins to analog rather than digital. This is becuase while digital is either 1 or 0, analgo lets you set the speed of each motor from 1-255. After trying multiple values it still did not work
+  In the end I was not able to find somthing that fully fixed this issue, so I plan to look more into this after Blue Stamp is over
 # First Milestone
 
 **Mile Stone Video**
