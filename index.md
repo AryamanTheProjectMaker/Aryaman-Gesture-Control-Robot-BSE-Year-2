@@ -1,5 +1,5 @@
 
-# Self Moving Car
+# The Switch Back Rover
 In this project the car can move around with precoded instruction. It also uses sensors to prevent running into something.
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
