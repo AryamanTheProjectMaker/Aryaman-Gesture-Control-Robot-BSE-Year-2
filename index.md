@@ -207,6 +207,18 @@ void stopMove() {
 **Project Photo**
 ![Headstone Image](IMG_5402.jpeg)
 
+**Line Tracking Sensor**
+![Headstone Image](IMG_5410.jpeg)
+
+**Path 1 for Line Following**
+![Headstone Image](IMG_5404.jpeg)
+
+**Path 2 for Line Following**
+![Headstone Image](IMG_5403.jpeg)
+
+**TT Motors on my Robot**
+![Headstone Image](IMG_5406.jpeg)
+
 # Other Resources/Examples
 - [Example 1]<a href="https://trashytuber.github.io/YimingJiaBlueStamp/](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_assemble.html"?
 
