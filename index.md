@@ -203,6 +203,7 @@ void stopMove() {
 # Photo Gallary
 
 **Project Photo**
+![Headstone Image](IMG_5402.jpeg)
 
 # Other Resources/Examples
 - [Example 1]<a href="https://trashytuber.github.io/YimingJiaBlueStamp/](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_assemble.html"?
