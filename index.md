@@ -32,9 +32,9 @@ In My final Mile Stone I accomplished:
 
 
 For my 2nd Mile Stone I accomplished:
--The robot being able to turn in a 90 degree angle
--Being able to move in all direction,forward, bakcwards,left and right
--Being able to do a combined precided path, like forward, then turn left, then backwards, etc
+- The robot being able to turn in a 90 degree angle
+- Being able to move in all direction,forward, bakcwards,left and right
+- Being able to do a combined precided path, like forward, then turn left, then backwards, etc
 
 **Challenges**
 - Getting my Robot to be able to turn in a proper 90 degree angle
